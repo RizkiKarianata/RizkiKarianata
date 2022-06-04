@@ -83,17 +83,17 @@ Windows 10
 
 ***
 
--  🔭 I’m currently working on building Custom servers using NodeJs or Dart shelf package.
+-  🔭 I’m currently working on a personal project including with an open source project.
 
--  🌱 I’m currently learning React. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+-  📝 This month I've been busy learning AngularJS, Laravel and more.
 
--  👯 I’m looking to collaborate on projects for my **Country India**.
+-  😄 I am native Indonesian and a little fluent in English.
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
+-  💬 If you want to stay connected, I'm mostly active in the [Facebook](https://www.facebook.com/rizky.slankers.3386), [Instagram](https://www.instagram.com/rizkikarianata/), and [Linkedin](https://www.linkedin.com/in/rizkikarianata/) communities.
 
--  😄 Pronouns: He/His
+-  📫 How to reach me: [natarizky884@gmail.com](mailto:natarizky884@gmail.com).
 
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
+-  ⚡ Fun fact: Equal is Not Always Equal in Javascript. 😂
 
 <!-- -  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
