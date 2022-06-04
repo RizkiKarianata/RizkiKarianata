@@ -63,9 +63,12 @@ Windows 10
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 - Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs&logoColor=007ACC)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=007ACC)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=007ACC)
+  ![Slim Framework](https://img.shields.io/badge/-Slim%20Framework-333333?style=flat&logo=php&logoColor=007ACC)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
