@@ -11,9 +11,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RizkiKarianata&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22rizkikarianata" /> </p>
 
-* I am a final year undergraduate student under the department of Electrical Engineering in [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+* I am a graduate of Vocational High School, majoring in Software Engineering from [SMK Negeri 11 Malang](http://smkn11malang.sch.id/old/).
+* I am passionate and always want to find out or explore new things about technology.
+* And I am a website-based application developer living in Indonesia.
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
