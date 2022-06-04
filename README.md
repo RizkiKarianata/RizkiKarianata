@@ -67,14 +67,14 @@ Windows 10
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20Atlas-333333?style=flat&logo=postgresql)
-  ![Oracle](https://img.shields.io/badge/-Oracle%20Atlas-333333?style=flat&logo=oracle)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-333333?style=flat&logo=sublime-text)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
 
 ***
 
