@@ -29,24 +29,24 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This month I spent a lot of my time on** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+AngularJS — Superheroic JavaScript MVW Framework
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio Code — The best editor out there.
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows 10
 
 ```
 
 
- Last Updated on 03/06/2022 18:48:01 UTC
+ Last Updated on 04/06/2022 22:56:01 UTC
 <!--END_SECTION:waka-->
 ***
 
